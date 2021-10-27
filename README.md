@@ -1,6 +1,6 @@
 # Sky_Chat! Application
 # Live Demo
-## https://unichat.vercel.app/
+## https://sky-chat-topaz.vercel.app/
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application
