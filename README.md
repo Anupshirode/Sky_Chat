@@ -1,4 +1,4 @@
-# Unichat Application
+# Sky_Chat! Application
 # Live Demo
 ## https://unichat.vercel.app/
 
